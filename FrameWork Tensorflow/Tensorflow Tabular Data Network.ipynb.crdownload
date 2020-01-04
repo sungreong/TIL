@@ -1,0 +1,33 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd\n",
+    "import tensorflow as tf\n",
+    "from sklearn.model_selection import train_test_split\n",
+    "from sklearn.preprocessing import LabelEncoder\n",
+    "import numpy as np\n",
+    "from tqdm.notebook import trange, tqdm\n",
+    "import seaborn as sns\n",
+    "import matplotlib.pyplot as plt\n",
+    "from sklearn.metrics import auc , roc_auc_score , confusion_matrix\n",
+    "from IPython.display import clear_output\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "PATH = \"/home/advice/Python/SR/Data/Rain/weatherAUS.csv\"\n",
+    "data = pd.read_csv(PATH)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "e
