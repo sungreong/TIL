@@ -4,12 +4,12 @@
 <br>
 
 <div style="display:inline-block">
-<div style="float:left;width:50%;display:inline-block">
+<div style="text-align:center;width:50%;display:inline-block">
   <div style="float:center;width:45%">
     <img src='./Result/a_result.gif' alt="a result" width="45%" height="500">
   </div>
 </div>
-<div style="float:left;width:45%;display:inline-block">
+<div style="text-align:center;width:45%;display:inline-block">
   <div style="float:center;width:45%">
     <img src='./Result/b_result.gif' alt="b result" width="45%" height="500">
   </div>
