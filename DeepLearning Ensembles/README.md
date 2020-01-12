@@ -3,7 +3,8 @@
 <a href="./Code/200112_NN Ensemble_Upgrade.ipynb">200112_NN Ensemble_Upgrade Jupyer File</a>
 <br>
 
-<div class="img1" style="float:left;width:45%">
+<div>
+<div class="img1" style="float:left;width:50%">
   <div style="float:left;width:45%">
     <img src='./Result/a_result.gif' alt="a result" width="45%" height="500">
   </div>
@@ -13,4 +14,4 @@
     <img src='./Result/b_result.gif' alt="b result" width="45%" height="500">
   </div>
 </div>
-
+</div>
