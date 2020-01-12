@@ -1,9 +1,8 @@
 ## DeepLearning 앙상블로 구현해보기
 
-
-
-
 <a href="./Code/200112_NN Ensemble_Upgrade.ipynb">200112_NN Ensemble_Upgrade Jupyer File</a>
+<br>
+
 
 <div class="img1">
   <div style="float:left;width:50%">
