@@ -1,11 +1,18 @@
 ## DeepLearning 앙상블로 구현해보기
 
-<div>
-  <div width:"50%">
-    <img src='./Result/a_result.gif' alt="a result">
+
+
+
+<a href="./Code/200112_NN Ensemble_Upgrade.ipynb">200112_NN Ensemble_Upgrade Jupyer File</a>
+
+<div class="img1">
+  <div style="float:left;width:50%">
+    <img src='./Result/a_result.gif' alt="a result" width="50%" height="500">
   </div>
-  <div width:"50%">
-    <img src='./Result/b_result.gif' alt="b result">
+</div>
+<div class="img2">
+  <div style="float:right;width:50%">
+    <img src='./Result/b_result.gif' alt="b result" width="50%" height="500">
   </div>
 </div>
 
