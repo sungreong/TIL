@@ -6,19 +6,15 @@
 <div style="display:inline-block">
 <div style="text-align:center;width:50%;display:inline-block">
   <div style="float:center;width:45%">
-    <img src='./Result/a_result.gif' alt="a result" width="45%" height="500" align="center">
+    <img src='./Result/a_result.gif' alt="a result" width="70%" height="500" align="center">
   </div>
 </div>
 <div style="text-align:center;width:45%;display:inline-block">
   <div style="float:center;width:45%">
-    <img src='./Result/b_result.gif' alt="b result" width="45%" height="500" align="center">
+    <img src='./Result/b_result.gif' alt="b result" width="70%" height="500" align="center">
   </div>
 </div>
 </div>
 
 <br>
 
-
-<p style="text-align:center;">
-<img src='./Result/b_result.gif' alt="b result" width="60%" height="500">
-</p>
