@@ -15,3 +15,10 @@
   </div>
 </div>
 </div>
+
+<br>
+
+
+<p style="text-align:center;">
+<img src='./Result/b_result.gif' alt="b result" width="60%" height="500">
+</p>
